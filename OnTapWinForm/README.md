@@ -2,7 +2,7 @@
 
 ## THÔNG TIN SINH VIÊN
 - **Họ và tên:** Phạm Xuân Tiến
-- **Mã số sinh viên:** [Điền MSSV của bạn vào đây]
+- **Mã số sinh viên:** 24810320273
 - **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình C# / Windows Forms
 - **Tên bài tập:** Ôn tập 5 Bài Lập trình Windows Forms Thực hành
