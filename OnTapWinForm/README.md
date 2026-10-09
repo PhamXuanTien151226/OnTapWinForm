@@ -13,7 +13,7 @@
 
 ### BÀI 1: MÁY TÍNH TÍNH CƯỚC DỊCH VỤ & GIẢM GIÁ
 1. **Giao diện chính:**
-   ![Giao diện chính](../screenshots/bai1_ui.png)
+   ![Giao diện chính](./screenshots/bai1_ui.png)
 2. **Thực thi chức năng / Kết quả:**
    ![Kết quả](../screenshots/bai1_result.png)
 3. **Kiểm tra lỗi (Validation):**
