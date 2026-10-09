@@ -15,7 +15,7 @@
 1. **Giao diện chính:**
    ![Giao diện chính](./screenshots/bai1_ui.png)
 2. **Thực thi chức năng / Kết quả:**
-   ![Kết quả](../screenshots/bai1_result.png)
+   ![Kết quả](./screenshots/bai1_result.png)
 3. **Kiểm tra lỗi (Validation):**
    ![Kiểm tra lỗi](../screenshots/bai1_error.png)
 
